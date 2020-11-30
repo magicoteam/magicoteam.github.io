@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "51fee8253881e61f1418",
+    "revision": "bf44544982454209d75e",
     "url": "/static/css/main.a742ddd5.chunk.css"
   },
   {
-    "revision": "51fee8253881e61f1418",
-    "url": "/static/js/main.0e7beee7.chunk.js"
+    "revision": "bf44544982454209d75e",
+    "url": "/static/js/main.3625baf8.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,19 +28,19 @@ self.__precacheManifest = [
     "url": "/static/media/tabler-webfont.b56d2ee6.woff2"
   },
   {
-    "revision": "68520a6b16e40c7b3538bae7c43eb776",
-    "url": "/static/media/tabler-webfont.68520a6b.ttf"
-  },
-  {
     "revision": "924bfe321562eb8cdedf675ad0e011b3",
     "url": "/static/media/tabler-webfont.924bfe32.woff"
+  },
+  {
+    "revision": "68520a6b16e40c7b3538bae7c43eb776",
+    "url": "/static/media/tabler-webfont.68520a6b.ttf"
   },
   {
     "revision": "ad55e63e508f5b0e55e9d2394a2732c7",
     "url": "/static/media/tabler-webfont.ad55e63e.svg"
   },
   {
-    "revision": "8ce2ad7e2e1f5810565752117d1517d0",
+    "revision": "ba2738795cd33de47c75e33e08ea461c",
     "url": "/index.html"
   }
 ];
