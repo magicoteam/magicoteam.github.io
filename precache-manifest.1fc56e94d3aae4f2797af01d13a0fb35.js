@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bf44544982454209d75e",
+    "revision": "3196520397fec773e4f9",
     "url": "/static/css/main.a742ddd5.chunk.css"
   },
   {
-    "revision": "bf44544982454209d75e",
-    "url": "/static/js/main.3625baf8.chunk.js"
+    "revision": "3196520397fec773e4f9",
+    "url": "/static/js/main.2ae42f0f.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -32,15 +32,15 @@ self.__precacheManifest = [
     "url": "/static/media/tabler-webfont.924bfe32.woff"
   },
   {
-    "revision": "68520a6b16e40c7b3538bae7c43eb776",
-    "url": "/static/media/tabler-webfont.68520a6b.ttf"
-  },
-  {
     "revision": "ad55e63e508f5b0e55e9d2394a2732c7",
     "url": "/static/media/tabler-webfont.ad55e63e.svg"
   },
   {
-    "revision": "ba2738795cd33de47c75e33e08ea461c",
+    "revision": "68520a6b16e40c7b3538bae7c43eb776",
+    "url": "/static/media/tabler-webfont.68520a6b.ttf"
+  },
+  {
+    "revision": "b2a1447f89f58d97cc51aa2c4e0854cf",
     "url": "/index.html"
   }
 ];
