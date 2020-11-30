@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a595b9d4a5374cfd8100",
+    "revision": "51fee8253881e61f1418",
     "url": "/static/css/main.a742ddd5.chunk.css"
   },
   {
-    "revision": "a595b9d4a5374cfd8100",
-    "url": "/static/js/main.32d9129a.chunk.js"
+    "revision": "51fee8253881e61f1418",
+    "url": "/static/js/main.0e7beee7.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,23 +24,23 @@ self.__precacheManifest = [
     "url": "/static/media/tabler-webfont.f24b133e.eot"
   },
   {
-    "revision": "924bfe321562eb8cdedf675ad0e011b3",
-    "url": "/static/media/tabler-webfont.924bfe32.woff"
+    "revision": "b56d2ee6c65e0104e4ef76c027587e46",
+    "url": "/static/media/tabler-webfont.b56d2ee6.woff2"
   },
   {
     "revision": "68520a6b16e40c7b3538bae7c43eb776",
     "url": "/static/media/tabler-webfont.68520a6b.ttf"
   },
   {
-    "revision": "b56d2ee6c65e0104e4ef76c027587e46",
-    "url": "/static/media/tabler-webfont.b56d2ee6.woff2"
+    "revision": "924bfe321562eb8cdedf675ad0e011b3",
+    "url": "/static/media/tabler-webfont.924bfe32.woff"
   },
   {
     "revision": "ad55e63e508f5b0e55e9d2394a2732c7",
     "url": "/static/media/tabler-webfont.ad55e63e.svg"
   },
   {
-    "revision": "87f671b0ae3df054889c49b5d5e7d682",
+    "revision": "8ce2ad7e2e1f5810565752117d1517d0",
     "url": "/index.html"
   }
 ];
