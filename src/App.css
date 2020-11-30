@@ -1,0 +1,43 @@
+.instatistic-wrapper {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 50vh;
+}
+
+.carousel-caption p,
+.carousel-caption > h3 {
+  color: #ff6a45;
+}
+
+/* OVERWRITE BUTTON THEME */
+.btn-primary {
+  background-color: #ff6a45 !important;
+  border-color: #ff6a45 !important;
+}
+
+/* ExTEND TABS TO FULL WIDTH */
+.nav-tabs {
+  width: 100%;
+}
+
+.nav-tabs .nav-link {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  height: 60px;
+  justify-content: center;
+}
+
+.tab-content {
+  width: 100%;
+}
+
+/* FOOTER */
+footer {
+  background-color: #ff6a45;
+}
+
+footer > .container {
+  min-height: initial;
+}
